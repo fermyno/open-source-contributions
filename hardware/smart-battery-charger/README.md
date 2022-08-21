@@ -1,7 +1,7 @@
 # Carregador Inteligente de Baterias
 
 **Projeto de minha autoria publicado na revista SABER ELETRÔNICA, Edição Fora de Série nº15.** 
-  
+\  
 
 ## Sobre o Projeto
 
@@ -20,8 +20,13 @@ Curiosamente, as edições "Fora de Série" da revista eram uma coletânea de pr
 
 ## Imagens da Publicação
 
+Capa da revista SABER ELETRÔNICA, Edição Fora de Série nº15.
 ![Capa](src/rse-01-capa.png)
+
+Índice com os projetos selecionados .
 ![Índice](src/rse-02-indice.png)
+
+Publicação do projeto de Fermyno Gutierrez
 ![Projeto](src/rse-03-projeto.png)
 
 ## Referências
