@@ -1,6 +1,7 @@
 # Carregador Inteligente de Baterias
 
-Projeto de minha autoria publicado na revista SABER ELETRÔNICA, Edição Fora de Série nº15. 
+**Projeto de minha autoria publicado na revista SABER ELETRÔNICA, Edição Fora de Série nº15.** 
+  
 
 ## Sobre o Projeto
 
@@ -23,3 +24,5 @@ Curiosamente, as edições "Fora de Série" da revista eram uma coletânea de pr
 ![Índice](src/rse-02-indice.png)
 ![Projeto](src/rse-03-projeto.png)
 
+## Referências
+[1] https://en.wikipedia.org/wiki/Open-source_hardware 
