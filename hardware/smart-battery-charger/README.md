@@ -1,7 +1,7 @@
 # Carregador Inteligente de Baterias
 
 **Projeto de minha autoria publicado na revista SABER ELETRÔNICA, Edição Fora de Série nº15.** 
-\  
+<br>  
 
 ## Sobre o Projeto
 
