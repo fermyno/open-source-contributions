@@ -4,8 +4,8 @@
 
 ## Sobre o Evento
 
-O Fórum Internacional de Software Livre (FISL) ocorre anualmente na cidade de Porto Alegre (Brasil) e é organizado pela "Associação SoftwareLivre.org". [1]
-O FISL é considerado um dos maiores foruns do mundo na área por proporcionar discussões técnicas, políticas e sociais sobre Software Livre. De forma integrada, através de palestras, reuniões e afins, são abordadas novidades nacionais e internacionais do segmento Software Livre. 
+O **Fórum Internacional de Software Livre (FISL)** ocorre anualmente na cidade de Porto Alegre (Brasil) e é organizado pela "Associação SoftwareLivre.org". [1]
+O **FISL** é considerado um dos maiores foruns do mundo na área por proporcionar discussões técnicas, políticas e sociais sobre Software Livre. De forma integrada, através de palestras, reuniões e afins, são abordadas novidades nacionais e internacionais do segmento Software Livre. 
 
 ## Edição 9 do FISL
 
@@ -14,7 +14,7 @@ O evento foi marcado pela presença de empresas como a Sun Microsystems, Google 
 
 ## Contribuição para o Evento
 
-Tive a satisfação de ser selecionado para participar da banca de avaliadores do FISL 9.0 [2]. Como membro da banca, fui encarregado de avaliar, aprovar e selecionar os trabalhos científicos que foram apresentados no fórum, nos idiomas português, inglês e espanhol.
+Tive a satisfação de ser selecionado para participar da banca de avaliadores do **FISL 9.0** [2]. Como membro da banca, fui encarregado de avaliar, aprovar e selecionar os trabalhos científicos que foram apresentados no fórum, nos idiomas português, inglês e espanhol.
 <br>
 ![Avaliadores do FISL 9.0](https://github.com/fermyno/open-source-contributions/blob/main/software/fisl9/src/fisl-9.0-avaliadores-ii.png)
 
