@@ -14,5 +14,11 @@ O evento foi marcado pela presença de empresas como a Sun Microsystems, Google 
 
 ## Contribuição para o Evento
 
-Tive a satisfção de ser selecionado para participar da banca de avaliadores do FISL 9.0 [2]. Como membro da banca, fui encarregado de avaliar, aprovar e selecionar os trabalhos científicos que foram apresentados no fórum, nos idiomas português, inglês e espanhol.
+Tive a satisfação de ser selecionado para participar da banca de avaliadores do FISL 9.0 [2]. Como membro da banca, fui encarregado de avaliar, aprovar e selecionar os trabalhos científicos que foram apresentados no fórum, nos idiomas português, inglês e espanhol.
+<br>
+![Avaliadores do FISL 9.0](https://github.com/fermyno/open-source-contributions/blob/main/software/fisl9/src/fisl-9.0-avaliadores-ii.png)
 
+## Referências
+
+[1] http://fisl.softwarelivre.org
+[2] presença registrada na ata do evento (Relatorio_fisl9.pdf)
