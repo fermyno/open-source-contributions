@@ -20,5 +20,5 @@ Tive a satisfação de ser selecionado para participar da banca de avaliadores d
 
 ## Referências
 
-[1] http://fisl.softwarelivre.org
-[2] presença registrada na ata do evento (Relatorio_fisl9.pdf)
+[1] http://fisl.softwarelivre.org  
+[2] [Ata do Evento] (https://github.com/fermyno/open-source-contributions/blob/main/software/fisl9/src/Relatorio_fisl9.pdf)
