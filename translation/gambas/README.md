@@ -20,3 +20,11 @@ Obrigado **Benoît Minisini** [4], pela oportunidade e confiança!
 ![Authors 2005](https://raw.githubusercontent.com/fermyno/open-source-contributions/main/translation/gambas/src/screenshot-02.png) <br>
 ![Authors 2022](https://raw.githubusercontent.com/fermyno/open-source-contributions/main/translation/gambas/src/screenshot-03.png) <br>
 
+## Referências
+
+[1] https://pt.wikipedia.org/wiki/Gambas
+[2] https://gitlab.com/gambas/gambas
+[3] https://gitlab.com/christhal/gambas/-/blob/master/AUTHORS
+[4] https://gitlab.com/bminisini
+[5] http://gambaswiki.org/wiki/doc/halloffame?nh&l=es
+[6] https://web.archive.org/web/20050609020334/http://gambas.sourceforge.net:80/
