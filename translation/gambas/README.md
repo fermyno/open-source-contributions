@@ -10,3 +10,5 @@ Desenvolvido em Paris por **Benoît Minisini**, desde 1999, o **Gambas** é libe
 
 Em 2004, por necessidades profissionais, fui incubido de migrar diversos programas escritos em Visual Basic para o ambiente Linux.
 Muitas dessas aplicações rodaram perfeitamente com o emulador Wine, entretanto, outras aplicacoes tiveram que ser reescritas com o **Gambas**.  
+Em virtude dessa necessidade, **contribui na tradução oficial do Gambas para o idioma português**, visando facilitar a migração dos referidos sistemas, principalmente para os integrantes da equipe de desenvolvedores com dificuldades no idioma inglês [3].
+
