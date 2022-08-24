@@ -16,3 +16,7 @@ Obrigado **Benoît Minisini** [4], pela oportunidade e confiança!
 
 ## Capturas de Telas
 
+![Authors 2005](https://raw.githubusercontent.com/fermyno/open-source-contributions/main/translation/gambas/src/screenshot-01.png) <br>
+![Authors 2005](https://raw.githubusercontent.com/fermyno/open-source-contributions/main/translation/gambas/src/screenshot-02.png) <br>
+![Authors 2022](https://raw.githubusercontent.com/fermyno/open-source-contributions/main/translation/gambas/src/screenshot-03.png) <br>
+
