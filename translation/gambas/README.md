@@ -22,9 +22,9 @@ Obrigado **Benoît Minisini** [4], pela oportunidade e confiança!
 
 ## Referências
 
-[1] https://pt.wikipedia.org/wiki/Gambas
-[2] https://gitlab.com/gambas/gambas
-[3] https://gitlab.com/christhal/gambas/-/blob/master/AUTHORS
-[4] https://gitlab.com/bminisini
-[5] http://gambaswiki.org/wiki/doc/halloffame?nh&l=es
-[6] https://web.archive.org/web/20050609020334/http://gambas.sourceforge.net:80/
+[1] https://pt.wikipedia.org/wiki/Gambas  
+[2] https://gitlab.com/gambas/gambas  
+[3] https://gitlab.com/christhal/gambas/-/blob/master/AUTHORS  
+[4] https://gitlab.com/bminisini  
+[5] http://gambaswiki.org/wiki/doc/halloffame?nh&l=es  
+[6] https://web.archive.org/web/20050609020334/http://gambas.sourceforge.net:80/  
