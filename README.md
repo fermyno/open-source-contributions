@@ -1,4 +1,4 @@
-# open-source-contributions
+# Open Source Contributions
 
 Repositório contendo minhas contribuições ao universo Open Source.
 
