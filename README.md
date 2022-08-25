@@ -8,3 +8,12 @@ Circuito Eletrônico publicado na Revista "SABER ELETRÔNICA" (Edição Fora de 
 **[Saber mais](link)**
 
 ## SOFTWARE
+**FISL - Fórum Internacional de Software Livre**
+Participação na banca de avaliadores do IX FISL.
+**[Saber mais](link)**
+
+
+## TRANSLATIONS
+**Gambas - Gambas Almost Means Basic**
+Participação na tradução oficial do Gambas para o idioma português.
+**[Saber mais](link)**
