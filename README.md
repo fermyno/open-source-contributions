@@ -20,3 +20,4 @@ Participação na banca de avaliadores do IX FISL.
 Participação na tradução oficial do Gambas para o idioma português.  
 **[Saber mais](https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas)**
 <br>
+<br>
