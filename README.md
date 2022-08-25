@@ -1,6 +1,7 @@
 # Open Source Contributions
 
 Repositório contendo minhas contribuições ao universo Open Source.  
+<br>
 
 ## HARDWARE
 **Smart Battery Charger**  
