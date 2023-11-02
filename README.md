@@ -18,7 +18,7 @@ Participação na banca de avaliadores do IX FISL.
 ## :earth_africa: TRANSLATIONS
 * **Gambas - Gambas Almost Means Basic**  
 Participação na tradução oficial do Gambas para o idioma português.  
-**[Clique aqui para saber mais](https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas)**
+<code>**[Clique aqui para saber mais](https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas)**</code>
 <br />
 <br />
 
