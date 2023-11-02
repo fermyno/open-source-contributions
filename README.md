@@ -10,15 +10,15 @@ Circuito Eletrônico publicado na Revista "SABER ELETRÔNICA" (Edição Fora de 
 <br />
 
 ## :floppy_disk: SOFTWARE
-* <code>**FISL - Fórum Internacional de Software Livre**</code>  
+* **<code>FISL - Fórum Internacional de Software Livre</code>**  
 Participação na banca de avaliadores do IX FISL.  
 **[Clique aqui para saber mais](https://github.com/fermyno/open-source-contributions/tree/main/software/fisl9)**
 <br />
 
 ## :earth_africa: TRANSLATIONS
-* **Gambas - Gambas Almost Means Basic**  
+* **<code>Gambas - Gambas Almost Means Basic</code>**  
 Participação na tradução oficial do Gambas para o idioma português.  
-<code>**[Clique aqui para saber mais](https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas)**</code>
+[Clique aqui para saber mais](https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas)
 <br />
 <br />
 
