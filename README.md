@@ -22,4 +22,4 @@ Participação na tradução oficial do Gambas para o idioma português.
 <br />
 <br />
 
-<code>Ícones</code>: https://gist.github.com/rxaviers/7360908
+<code>Ícones utilizados</code>: https://gist.github.com/rxaviers/7360908
