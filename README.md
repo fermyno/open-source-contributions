@@ -21,5 +21,6 @@ Participação na tradução oficial do Gambas para o idioma português.
 [Acessar projeto](https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas)
 <br />
 <br />
+<br />
 
-<code>Ícones utilizados:</code> https://gist.github.com/rxaviers/7360908
+<code>Ícones utilizados:</code> <a href="https://gist.github.com/rxaviers/7360908" target="new">https://gist.github.com/rxaviers/7360908</a>
