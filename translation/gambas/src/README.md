@@ -1,2 +1,1 @@
-
-Please go back to the main page: <a href="https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas">https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas</a>
+🏠 Please go back to the main page: <a href="https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas">https://github.com/fermyno/open-source-contributions/tree/main/translation/gambas</a>
