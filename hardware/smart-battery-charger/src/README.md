@@ -1,1 +1,1 @@
-Please go back to the main page: <a href="https://github.com/fermyno/open-source-contributions/tree/main/hardware/smart-battery-charger">https://github.com/fermyno/open-source-contributions/tree/main/hardware/smart-battery-charger</a>
+🏠 Please go back to the main page: <a href="https://github.com/fermyno/open-source-contributions/tree/main/hardware/smart-battery-charger">Open Source Contributions > Hardware > Smart Battery Charger</a>
