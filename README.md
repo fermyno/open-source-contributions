@@ -23,7 +23,7 @@ Participação na tradução oficial do Gambas para o idioma português.
 <br />
 <br />
 
-<code>Ícones utilizados:</code> 
+<code>Ícones utilizados:</code>  
 https://gist.github.com/rxaviers/7360908  
 https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia  
 https://github.com/ikatyang/emoji-cheat-sheet  
