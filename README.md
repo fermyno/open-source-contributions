@@ -6,7 +6,7 @@ Repositório contendo minhas contribuições ao universo Open Source.
 ## :satellite: HARDWARE
 * **<code>Smart Battery Charger</code>**  
 Circuito Eletrônico publicado na Revista "SABER ELETRÔNICA" (Edição Fora de Série nº 15, pág. 45, 1994).  
-[Acessar projeto](https://github.com/fermyno/open-source-contributions/tree/main/hardware/smart-battery-charger)
+📂 [Acessar projeto](https://github.com/fermyno/open-source-contributions/tree/main/hardware/smart-battery-charger)
 <br />
 
 ## :floppy_disk: SOFTWARE
